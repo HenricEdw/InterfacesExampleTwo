@@ -1,0 +1,6 @@
+C:\CodeProjects\BookInterfaceExample\bin\Debug\BookInterfaceExample.exe.config
+C:\CodeProjects\BookInterfaceExample\bin\Debug\BookInterfaceExample.exe
+C:\CodeProjects\BookInterfaceExample\bin\Debug\BookInterfaceExample.pdb
+C:\CodeProjects\BookInterfaceExample\obj\Debug\BookInterfaceExample.csprojAssemblyReference.cache
+C:\CodeProjects\BookInterfaceExample\obj\Debug\BookInterfaceExample.exe
+C:\CodeProjects\BookInterfaceExample\obj\Debug\BookInterfaceExample.pdb
